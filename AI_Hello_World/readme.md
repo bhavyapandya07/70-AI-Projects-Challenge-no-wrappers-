@@ -1,6 +1,8 @@
-    Day 1: AI Hello World 🤖
+## Day 1: AI Hello World 🤖
 
 This is the very first project of the 70-day AI challenge. The goal of this project is to set up a local AI environment on Windows using Ollama and write a simple Python script to chat with it.
+
+---
 
 What I learned today:
 
@@ -9,6 +11,8 @@ What I learned today:
 ❏ Installing and running a local Large Language Model (Llama 3.2 1B) using Ollama.
 
 ❏ Using the ollama Python library to send a prompt and receive a response entirely on my local machine.
+
+---
 
 How to run this:
 
