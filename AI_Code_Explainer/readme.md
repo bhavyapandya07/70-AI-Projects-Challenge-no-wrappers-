@@ -2,7 +2,7 @@
 
 This project is part of my 70-Day AI Challenge. It is a Python-based tool that takes a code snippet as input and provides a clear, concise explanation of what the code does. 
 
-It leverages **Hugging Face's Serverless Inference API** to run the `Zephyr-7b-beta` model completely free of charge in the cloud.
+It leverages **Hugging Face's Serverless Inference API** to run the `Qwen2.5-Coder-32B-Instruct` model completely free of charge in the cloud.
 
 ## Tech Stack
 
@@ -10,7 +10,7 @@ It leverages **Hugging Face's Serverless Inference API** to run the `Zephyr-7b-b
 
 ❏ **API:** Hugging Face Inference API (Free Tier)
 
-❏ **Model:** `HuggingFaceH4/zephyr-7b-beta`
+❏ **Model:** `Qwen/Qwen2.5-Coder-32B-Instruct`
 
 ❏ **Libraries:** `huggingface_hub`
 

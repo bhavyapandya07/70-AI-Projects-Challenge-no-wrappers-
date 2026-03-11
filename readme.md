@@ -49,7 +49,7 @@ Projects will progressively increase in difficulty — starting from simple loca
 |-------|------|------|------|
 | 1 | [AI Hello World](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Hello_World) | Setup local LLM using Ollama and interact with it using Python | ✅ Completed |
 | 2 | [CLI AI Chatbot](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/CLI_AI_Chatbot) | Build a command line AI chatbot using Ollama and Python | ✅ Completed |
-| 3 | [AI Code Explainer](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Code_Explainer) | Cloud-based code explanation tool using Hugging Face Serverless Inference API (Mistral-7B) | ✅ Completed |
+| 3 | [AI Code Explainer](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Code_Explainer) | Cloud-based code explanation tool using Hugging Face Serverless Inference API (Qwen2.5-Coder-32B) | ✅ Completed |
 | 4 | [AI Text Summarizer](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Text_Summarizer) | Fully local NLP text summarization script using TinyLlama (1.1B) and Hugging Face Transformers | ✅ Completed |
 | 5 | Coming Soon | ... | ⏳ |
 | 6 | Coming Soon | ... | ⏳ |
