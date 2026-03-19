@@ -9,3 +9,13 @@ pycache/
 
 VS Code
 .vscode/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.DS_Store
+Thumbs.db
+
+output/
+blogs/

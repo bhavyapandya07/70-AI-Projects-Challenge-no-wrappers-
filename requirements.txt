@@ -1,5 +1,6 @@
 networkx==3.6.1
 numpy==2.4.3
+ollama
 ollama==0.4.7
 packaging==26.0
 pydantic==2.12.5
@@ -18,3 +19,7 @@ transformers==5.3.0
 typer==0.24.1
 typing-inspection==0.4.2
 typing_extensions==4.15.0
+langchain
+langchain-community
+langchain-core
+python-dotenv
