@@ -23,3 +23,9 @@ langchain
 langchain-community
 langchain-core
 python-dotenv
+huggingface-hub
+uvicorn
+streamlit
+gradio
+scikit-learn
+PyPDF2

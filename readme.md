@@ -5,7 +5,7 @@ Welcome to my **70-project journey to mastering Artificial Intelligence, Machine
 The goal is to **build real AI systems**, not just wrappers, using **free and open-source tools**.  
 Projects will progressively increase in difficulty — starting from simple local scripts and scaling to **production-style AI systems.**
 
------
+---
 
 ## 🎯 Goals
 
@@ -15,7 +15,7 @@ Projects will progressively increase in difficulty — starting from simple loca
   - Use **open-source tools and models** (Llama, Ollama, Python, etc.)
   - Build a **public AI engineering portfolio**
 
------
+---
 
 ## 🧠 Skills Covered
 
@@ -30,7 +30,7 @@ Projects will progressively increase in difficulty — starting from simple loca
   - AI APIs (FastAPI)
   - AI Deployment
 
------
+---
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +43,7 @@ Projects will progressively increase in difficulty — starting from simple loca
   - **Database:** FAISS, ChromaDB
   - **Tools:** Docker, Git & GitHub
 
------
+---
 
 # 📁 Project Log
 
@@ -53,12 +53,13 @@ Projects will progressively increase in difficulty — starting from simple loca
 | 2 | [CLI AI Chatbot](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/CLI_AI_Chatbot) | Build a command line AI chatbot using Ollama and Python | ✅ Completed |
 | 3 | [AI Code Explainer](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Code_Explainer) | Cloud-based code explanation tool using Hugging Face Serverless Inference API (Qwen2.5-Coder-32B) | ✅ Completed |
 | 4 | [AI Text Summarizer](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Text_Summarizer) | Fully local NLP text summarization script using TinyLlama (1.1B) and Hugging Face Transformers | ✅ Completed |
-| 5 | [AI Markdown Blog Generator](https://www.google.com/search?q=https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Markdown_Blog_Generator) | Automated content creator using LangChain and Llama 3 for SEO-friendly Markdown blogging. | ✅ Completed |
-| 6 | [AI Prompt Improver](https://www.google.com/search?q=https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Prompt_Improver) | Meta-prompting utility that refines vague inputs into high-quality instructions using Llama 3.2. | ✅ Completed |
-| 7 | Coming Soon | ... | ⏳ |
-| 8 | Coming Soon | ... | ⏳ |
+| 5 | [AI Markdown Blog Generator](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Markdown_Blog_Generator) | Automated content creator using LangChain and Llama 3 for SEO-friendly Markdown blogging. | ✅ Completed |
+| 6 | [AI Prompt Improver](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Prompt_Improver) | Meta-prompting utility that refines vague inputs into high-quality instructions using Llama 3.2. | ✅ Completed |
+| 7 | [AI JSON Generator](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_JSON_Generator) | Local AI tool using LangChain and Ollama (phi3) to convert unstructured text into strict JSON. | ✅ Completed |
+| 8 | [AI Resume Analyzer](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Resume_Analyzer) | Privacy-first Streamlit web app using local Llama 3.2 1B to extract PDF text and provide ATS feedback. | ✅ Completed |
+| 9 | Coming Soon | ... | ⏳ |
 
------
+---
 
 ## 🚀 Why This Challenge?
 
@@ -74,7 +75,7 @@ This challenge focuses on **building real systems**, including:
 
 By the end of this challenge, this repository will contain **a complete AI Engineering portfolio.**
 
------
+---
 
 ## 📅 Progress Updates
 
@@ -82,7 +83,7 @@ I will share updates and learnings as I build.
 
 Follow the journey 👀
 
------
+---
 
 ## ⭐ Support
 
@@ -92,6 +93,6 @@ If you find this journey interesting:
   - Follow along
   - Build with me
 
------
+---
 
 **Let's build AI systems.**
