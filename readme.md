@@ -57,7 +57,9 @@ Projects will progressively increase in difficulty — starting from simple loca
 | 6 | [AI Prompt Improver](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Prompt_Improver) | Meta-prompting utility that refines vague inputs into high-quality instructions using Llama 3.2. | ✅ Completed |
 | 7 | [AI JSON Generator](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_JSON_Generator) | Local AI tool using LangChain and Ollama (phi3) to convert unstructured text into strict JSON. | ✅ Completed |
 | 8 | [AI Resume Analyzer](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Resume_Analyzer) | Privacy-first Streamlit web app using local Llama 3.2 1B to extract PDF text and provide ATS feedback. | ✅ Completed |
-| 9 | Coming Soon | ... | ⏳ |
+| 9 | [AI Meeting Notes Generator](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Meeting_Notes_Generator) | Turn raw meeting transcripts into structured notes and action items using Streamlit, LangChain, and local Llama 3.2. | ✅ Completed |
+| 10 | [AI Email Writer](https://github.com/bhavyapandya07/70-AI-Projects-Challenge-no-wrappers-/tree/main/AI_Email_Writer) | Transform quick ideas into polished emails with adjustable tones using Streamlit and local Llama 3.2. | ✅ Completed |
+| 11 | Coming Soon | ... | ⏳ |
 
 ---
 

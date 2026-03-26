@@ -1,6 +1,5 @@
 networkx==3.6.1
 numpy==2.4.3
-ollama
 ollama==0.4.7
 packaging==26.0
 pydantic==2.12.5
