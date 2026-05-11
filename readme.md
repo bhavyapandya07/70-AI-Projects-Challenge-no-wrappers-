@@ -1,4 +1,4 @@
-# 70 AI & ML Projects Challenge 🚀 
+# 70 AI & ML Projects Challenge 🚀
 
 Welcome to my **70-project journey to mastering Artificial Intelligence, Machine Learning Engineering, LLMs, and Automation.**
 
