@@ -28,3 +28,5 @@ streamlit
 gradio
 scikit-learn
 PyPDF2
+langchain-ollama
+watchdog
